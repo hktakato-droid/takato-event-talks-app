@@ -1,0 +1,39 @@
+
+[
+  {
+    "title": "The Future of Artificial Intelligence",
+    "speakers": ["Dr. Ada Lovelace"],
+    "categories": ["AI", "Machine Learning"],
+    "description": "A deep dive into the latest advancements in AI and what we can expect in the coming years."
+  },
+  {
+    "title": "Building Scalable Web Applications",
+    "speakers": ["Grace Hopper", "Charles Babbage"],
+    "categories": ["Web Development", "Scalability", "Architecture"],
+    "description": "Learn the best practices for designing and building web applications that can handle millions of users."
+  },
+  {
+    "title": "Cybersecurity in the Modern Age",
+    "speakers": ["Kevin Mitnick"],
+    "categories": ["Cybersecurity", "Hacking"],
+    "description": "An overview of the current cybersecurity landscape and how to protect yourself and your organization from threats."
+  },
+  {
+    "title": "The Power of Quantum Computing",
+    "speakers": ["Richard Feynman"],
+    "categories": ["Quantum Computing", "Physics"],
+    "description": "Explore the mind-bending world of quantum computing and its potential to revolutionize science and technology."
+  },
+  {
+    "title": "Frontend Frameworks: A Comparative Analysis",
+    "speakers": ["Brendan Eich"],
+    "categories": ["Frontend", "Web Development", "JavaScript"],
+    "description": "A comprehensive comparison of the most popular frontend frameworks, including React, Angular, and Vue."
+  },
+  {
+    "title": "The Ethics of Big Data",
+    "speakers": ["Tim Berners-Lee", "Vint Cerf"],
+    "categories": ["Big Data", "Ethics", "Privacy"],
+    "description": "A thought-provoking discussion on the ethical implications of collecting and analyzing large amounts of data."
+  }
+]
